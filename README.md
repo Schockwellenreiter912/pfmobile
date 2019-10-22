@@ -1,2 +1,2 @@
-# pfmogul
-A mobile app for managing buildings, rooms and teams from Pathfinder's Ultimate Campaigns book.
+# pfmobile
+A mobile app for assisting with Pathfinder related tasks, e.g. bookkeeping and on-the-fly calculations.
